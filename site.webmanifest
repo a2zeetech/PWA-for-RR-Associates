@@ -1,1 +1,23 @@
-{"name":"","short_name":"","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone"}
+   {
+    "name": "RR Associates",
+    "short_name": "RR Associates",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiPApYqAtdMfIqdRJeVVEPS8uB0_GHfWVwhOkKiEO46XInSQGTtZYnGIRUAnLGvKv4dKq1_peqEvI_bhqdd4SOZQcNjKXdg5_D2DQwCmdE4yJ9ZZylyS-ij3kTBOpTiAGOdNu6qPEVYOTWBE0R_5SB-mI34bnLJOJbQLOsEBC8zW_m4fWiUGk77Jkxy=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgCgFgtUimd967bL-uONR6dWip5ky56DEm9jufT9uKBHLkVJXNMdEf6m75RIV2qWhn2JAVFhPUWcXwUlhUrACjkIYiM3K5p0I9sXVto1IQJKB9Ft09QFLsqSByDf1gm4VGU40hirf7ywe_ZoaBDB75GVj5BZj1qOnQeG14OUjNiLBULrUxjrisC-5cP=s320",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.sanchay.net.in/"
+}
